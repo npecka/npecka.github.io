@@ -25,6 +25,8 @@ titles:
   # @end locale config
 key: page-projects
 ---
+## Projects
+
 ## Home Kubernetes Lab
 Previously used, Endpoint was configured to be a bare metal VMware ESXI host. A 3-node cluster was built upon the ESXI host using RKE to deploy Kubernetes atop the hosts.  Another individual host was designated as the entry point serving an NGINX load balancer  across the three nodes. To make this work the master node Exchanged SSH keys with the  three nodes for a successful RKE deployment. Once up, kubectl, and helm were installed  for Kubernetes CLI integration and chart deployment. Rancher was deployed via a HELM  chart and given proper configuration values. The Rancher cluster was also secured via the  local admin account and with a certificate that was generated from the home domain root  CA that also had to be generated and created. This cluster then has been used to test  various Kubernetes versions of apps serving things including DokuWiki, LDAP load  balancer, storage provisioning, etc.  
 
