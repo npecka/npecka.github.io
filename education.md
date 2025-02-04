@@ -25,9 +25,7 @@ titles:
   # @end locale config
 key: page-education
 ---
-## Education
-
-## DEGREE
+## Higher Education
 - PhD, Computer Science and Engineering, University of North Texas, Denton, TX (Ongoing)
 - Master’s of Science, Computer Engineering & Cyber Security, Iowa State University, Ames, IA
 - Bachelor of Science, Computer Engineering, Iowa State University, Ames, IA  
