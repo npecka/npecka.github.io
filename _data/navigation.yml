@@ -53,7 +53,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Test
+      en      : &EN       Here
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -75,4 +75,4 @@ header:
       fr-LU   : *FR
       tr      : *TR
       # @end locale config
-    url: /test.html
+    url: /here.html

@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Test
+  en      : &EN       Here
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -23,7 +23,7 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-test
+key: page-here
 ---
 TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 ```javascript
