@@ -25,15 +25,13 @@ titles:
   # @end locale config
 key: page-education
 ---
-EDUCATION/CERTIFICATIONS
+## EDUCATION
+- PhD, Computer Science and Engineering, University of North Texas, Denton, TX (Ongoing)
+- Master’s of Science, Computer Engineering & Cyber Security, Iowa State University, Ames, IA
+- Bachelor of Science, Computer Engineering, Iowa State University, Ames, IA  
 
-    PhD, Computer Science and Engineering, University of North Texas, Denton, TX (Ongoing)
-    Master’s of Science, Computer Engineering & Cyber Security, Iowa State University, Ames, IA
-    Bachelor of Science, Computer Engineering, Iowa State University, Ames, IA  
-
-EDUCATIONAL ACCOLADES
-
+## EDUCATIONAL ACCOLADES
 Thesis Publication
-    Privilege Escalation Attack Scenarios on the DevOps Pipeline Within a Kubernetes Environment 
-    International Conference on Software and System Processes (ICSSP) 2022
-        Paper Link - https://dl.acm.org/doi/10.1145/3529320.3529325
+- Privilege Escalation Attack Scenarios on the DevOps Pipeline Within a Kubernetes Environment 
+- International Conference on Software and System Processes (ICSSP) 2022
+- Paper Link - https://dl.acm.org/doi/10.1145/3529320.3529325
