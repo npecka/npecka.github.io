@@ -35,4 +35,5 @@ key: page-education
 Thesis Publication
 - Privilege Escalation Attack Scenarios on the DevOps Pipeline Within a Kubernetes Environment 
 - International Conference on Software and System Processes (ICSSP) 2022
-- Paper Link - https://dl.acm.org/doi/10.1145/3529320.3529325
+- [Paper Link](https://dl.acm.org/doi/10.1145/3529320.3529325)
+- [GitHub Link](https://github.com/npecka/InsiderAttacksontheDevOpsPipeline)
