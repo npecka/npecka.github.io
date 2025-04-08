@@ -4,13 +4,13 @@
     margin-right: auto;
     margin-left: auto;
   }
-  .hero {
-    img {
-      background: url(https://raw.githubusercontent.com/npecka/npecka.github.io/master/screenshots/snowboard.jpg);
-      display: block;
+  .hero-section {
+      background: url(../screenshots/snowboard.jpg);
+      //display: block;
+      background-size: cover;
       width: 100%;
-      margin: 0 auto;
-    }
+      height: 100%;
+      //margin: 0 auto;
   }
   .hero__content {
     margin-bottom: 0;
