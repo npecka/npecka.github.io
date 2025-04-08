@@ -39,5 +39,17 @@ articles:
 <script>
   {%- include scripts/home.js -%}
 </script>
+<html>
+    <head>
+    <style>
+    body {
+      background-image: url('{{ site.baseurl }}/assets/images/screenshot.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover; 
+    }
+    </style>
+    </head>
 
+    </html>
 {{ content }}
