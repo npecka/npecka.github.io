@@ -4,9 +4,12 @@
     margin-right: auto;
     margin-left: auto;
   }
-  /* Cover Image */
   .hero {
-    background-image: url('"https://kitian616.github.io/jekyll-TeXt-theme/docs/assets/images/cover3.jpg"');
+    img {
+      background-image: url('https://kitian616.github.io/jekyll-TeXt-theme/docs/assets/images/cover3.jpg');
+      width: 100%;
+      margin: 0 auto;
+    }
   }
   .hero__content {
     margin-bottom: 0;
