@@ -223,3 +223,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+## => Image
+##############################
+image:
+  background: https://raw.githubusercontent.com/npecka/npecka.github.io/master/screenshots/snowboard.jpg
