@@ -4,12 +4,9 @@
     margin-right: auto;
     margin-left: auto;
   }
+  /* Cover Image */
   .hero {
-    img {
-      display: block;
-      width: 50%;
-      margin: 0 auto;
-    }
+    background: url('../../screenshot.jpg');
   }
   .hero__content {
     margin-bottom: 0;
